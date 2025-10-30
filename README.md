@@ -1,4 +1,4 @@
-# networked-os
+# Networked-Os
 The Networked OS: the stack of interfaces, protocols, communities, and income pathways that together shape a new model of life. In this world, the Networked OS is more than just infrastructure—it is a worldview. It is how individuals build resilience, meaning, and sovereignty in a decentralized age.
 
 
@@ -25,6 +25,12 @@ This conference is where we explore it.
 
 ## What will happen? 
 
+In December, we’ll be hosting a series of offline events in Chiang Mai, including:
+
+* 10 meetups with diverse themes
+* 1 major conference with around 100 participants
+
+
 ### 1. **Main Stage – Networked OS Talks**
 
 - Showcases of borderless applications, creator tools, and coordination protocols
@@ -49,3 +55,6 @@ This conference is where we explore it.
 - **Sovereign individuals** designing their own life systems
 - **Toolmakers** building universal infrastructure for identity, income, and belonging
 - **Decentralized communities & creators** cultivating peer networks beyond borders
+
+
+## Join us! 
